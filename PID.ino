@@ -1,5 +1,10 @@
 #include "Tests.h"
 
+/**************************************************************************************
+The code here could be definetely improved.
+***************************************************************************************/
+
+
 int target_val = 3500; //Value of the Line, which is given more acurately by calibrate().
 int last_P;
 boolean bools = true;
